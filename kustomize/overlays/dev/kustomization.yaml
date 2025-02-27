@@ -7,5 +7,5 @@ resources:
 namePrefix: dev-
 nameSuffix: ""
 
-patches:
-  - path: replicas-patch.yaml
+patchesStrategicMerge:
+  - replicas-patch.yaml
