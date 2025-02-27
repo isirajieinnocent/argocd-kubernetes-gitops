@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: base-grade-submission-api
+  name: grade-submission-api
 spec:
   replicas: 3

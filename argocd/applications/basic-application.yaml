@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/rslim087a/argocd-kubernetes-gitops-tutorial.git
     targetRevision: HEAD
-    path: kubernetes/basic
+    path: gitops/basic
   destination:
     server: https://kubernetes.default.svc
     namespace: grade-demo
