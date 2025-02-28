@@ -4,5 +4,8 @@ kind: Kustomization
 resources:
   - ../../base
 
+namePrefix: dev-
+nameSuffix: ""
+
 patchesStrategicMerge:
   - replicas-patch.yaml
