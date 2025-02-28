@@ -7,5 +7,8 @@ resources:
 namePrefix: dev-
 nameSuffix: ""
 
-patchesStrategicMerge:
-  - replicas-patch.yaml
+patches:
+  - path: replicas-patch.yaml
+    target:
+      kind: Deployment
+      name: grade-submission-api
