@@ -6,11 +6,15 @@ This repo contains all the code needed to follow along with our **[YouTube Tutor
 
 To follow along with this tutorial, you'll need:
 
-- [kubectl installed and configured](https://youtu.be/IBkU4dghY0Y)
+- kubectl installed and configured]
+- Helm installed
+- A GitHub account
 
-- [Helm installed](https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows)
+Missing any of these? Click on one of these links:
 
-- [A GitHub account](https://github.com/)
+- [Install Kubernetes and kubectl](https://youtu.be/IBkU4dghY0Y)
+- [Install Helm](https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows)
+- [Github](https://github.com/)
 
 ## Install ArgoCD on your Cluster
 ```
