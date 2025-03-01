@@ -10,7 +10,7 @@ To follow along with this tutorial, you'll need:
 
 - [Helm installed](https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows)
 
-- A GitHub account
+- [A GitHub account](https://github.com/)
 
 ## Install ArgoCD on your Cluster
 ```
