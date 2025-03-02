@@ -1,6 +1,6 @@
 # Argocd Kubernetes Gitops Tutorial
 
-This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://link)** or **(Written Article)[https://kubernetestraining.io/blog/argocd-kubernetes-learn-gitops-github-helm-kustomize]**
+This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://link)** or **[Written Article](https://kubernetestraining.io/blog/argocd-kubernetes-learn-gitops-github-helm-kustomize)**
 
 ## Prerequisites
 
