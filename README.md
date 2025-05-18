@@ -53,6 +53,6 @@ To verify, you can get all grades with:
 curl http://localhost:<port>/grades
 ```
 
-## Kubernetes Training
+## Become a Cloud and DevOps Engineer
 
-If you found this guide helpful, check out our [Kubernetes Training course](https://kubernetestraining.io/)
+Visit https://rayanslim.com
