@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: grade-submission-api
-  namespace: grade-demo
+  namespace: grade-project1
   labels:
     app: grade-submission
 spec:
