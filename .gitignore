@@ -2,4 +2,6 @@
 
 # .tfstate files
 *.tfstate
+*.tfstate.*.terraform/
+*.tfstate
 *.tfstate.*
