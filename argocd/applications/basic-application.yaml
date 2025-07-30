@@ -11,7 +11,7 @@ spec:
     path: gitops/basic
   destination:
     server: https://kubernetes.default.svc
-    namespace: grade-demo
+    namespace: grade-project1
   syncPolicy:
     automated:
       prune: true
